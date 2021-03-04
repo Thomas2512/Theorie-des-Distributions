@@ -1,2 +1,2 @@
-# theorie_des_distributions
+# Théorie des Distributions
 https://www.coursera.org/learn/theorie-des-distributions/home/welcome
